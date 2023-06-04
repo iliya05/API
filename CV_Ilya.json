@@ -1,0 +1,25 @@
+{
+   "name":"Ilya",
+   "secondname":"Bylich",
+   "e-mail":"iliyabylich04@gmail.com",
+   "age":19,
+   "education":
+      "Borovlany School №2",
+ 
+   "experience":null,
+   "skills":{
+      "English",
+      "PC ownership"
+   },
+   "target":"get software tester positions in any company",
+   "gender":"male",
+   "marriaage":false,
+   "phonenumber":"255110634",
+   "address":{
+      "village":"Drozdovo",
+      "zip":"223053",
+      "street":"Yantarnya"
+   },
+   "hobbies":"photography",
+   "job":"student"
+}
